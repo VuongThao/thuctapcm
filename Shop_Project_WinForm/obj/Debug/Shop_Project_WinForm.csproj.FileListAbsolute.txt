@@ -1,0 +1,372 @@
+D:\Application\Guna.UI-Framework-Lib-master\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Shop_Project_WinForm.exe.config
+D:\Application\Guna.UI-Framework-Lib-master\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Shop_Project_WinForm.exe
+D:\Application\Guna.UI-Framework-Lib-master\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Shop_Project_WinForm.pdb
+D:\Application\Guna.UI-Framework-Lib-master\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Guna.UI2.dll
+D:\Application\Guna.UI-Framework-Lib-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.Properties.Resources.resources
+D:\Application\Guna.UI-Framework-Lib-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserNhanVien.resources
+D:\Application\Guna.UI-Framework-Lib-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csproj.GenerateResource.cache
+D:\Application\Guna.UI-Framework-Lib-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csproj.CoreCompileInputs.cache
+D:\Application\Guna.UI-Framework-Lib-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csproj.CopyComplete
+D:\Application\Guna.UI-Framework-Lib-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.exe
+D:\Application\Guna.UI-Framework-Lib-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.pdb
+D:\Application\Guna.UI-Framework-Lib-master\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Guna.UI.dll
+D:\Application\Guna.UI-Framework-Lib-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.Form1.resources
+D:\Application\Guna.UI-Framework-Lib-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.FormLogin.resources
+D:\Application\Guna.UI-Framework-Lib-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserHome.resources
+D:\Application\Guna.UI-Framework-Lib-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csprojAssemblyReference.cache
+D:\Application\Guna.UI-Framework-Lib-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserKhachHang.resources
+D:\Application\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Shop_Project_WinForm.exe.config
+D:\Application\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Shop_Project_WinForm.exe
+D:\Application\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Shop_Project_WinForm.pdb
+D:\Application\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.Form1.resources
+D:\Application\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.FormLogin.resources
+D:\Application\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.Properties.Resources.resources
+D:\Application\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserHome.resources
+D:\Application\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserKhachHang.resources
+D:\Application\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserNhanVien.resources
+D:\Application\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csproj.GenerateResource.cache
+D:\Application\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csproj.CoreCompileInputs.cache
+D:\Application\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csproj.CopyComplete
+D:\Application\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.exe
+D:\Application\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.pdb
+D:\Application\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserSanPham.resources
+D:\Application\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserDanhMucSP.resources
+D:\Application\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csprojAssemblyReference.cache
+D:\Application\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserPhieuNhap.resources
+D:\Application\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserNhaCungCap.resources
+D:\front-end-master\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Shop_Project_WinForm.exe.config
+D:\front-end-master\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Shop_Project_WinForm.exe
+D:\front-end-master\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Shop_Project_WinForm.pdb
+D:\front-end-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.Form1.resources
+D:\front-end-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.FormLogin.resources
+D:\front-end-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.Properties.Resources.resources
+D:\front-end-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserDanhMucSP.resources
+D:\front-end-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserHome.resources
+D:\front-end-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserKhachHang.resources
+D:\front-end-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserNhaCungCap.resources
+D:\front-end-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserNhanVien.resources
+D:\front-end-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserPhieuNhap.resources
+D:\front-end-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserSanPham.resources
+D:\front-end-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csproj.GenerateResource.cache
+D:\front-end-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csproj.CopyComplete
+D:\front-end-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.exe
+D:\front-end-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.pdb
+D:\front-end-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csprojAssemblyReference.cache
+D:\front-end-master\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.chitietsanpham.resources
+D:\Download\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Shop_Project_WinForm.exe.config
+D:\Download\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Shop_Project_WinForm.exe
+D:\Download\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Shop_Project_WinForm.pdb
+D:\Download\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.chitietsanpham.resources
+D:\Download\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.Form1.resources
+D:\Download\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.FormLogin.resources
+D:\Download\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.Properties.Resources.resources
+D:\Download\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserDanhMucSP.resources
+D:\Download\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserHome.resources
+D:\Download\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserKhachHang.resources
+D:\Download\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserNhaCungCap.resources
+D:\Download\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserNhanVien.resources
+D:\Download\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserPhieuNhap.resources
+D:\Download\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserSanPham.resources
+D:\Download\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csproj.GenerateResource.cache
+D:\Download\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csproj.CoreCompileInputs.cache
+D:\Download\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csproj.CopyComplete
+D:\Download\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.exe
+D:\Download\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.pdb
+D:\Download\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserHoaDon.resources
+D:\Download\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.cthoadon.resources
+D:\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Shop_Project_WinForm.exe.config
+D:\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Shop_Project_WinForm.exe
+D:\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Shop_Project_WinForm.pdb
+D:\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csprojAssemblyReference.cache
+D:\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.chitietsanpham.resources
+D:\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.cthoadon.resources
+D:\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.Form1.resources
+D:\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.FormLogin.resources
+D:\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.Properties.Resources.resources
+D:\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserDanhMucSP.resources
+D:\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserHoaDon.resources
+D:\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserHome.resources
+D:\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserKhachHang.resources
+D:\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserNhaCungCap.resources
+D:\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserNhanVien.resources
+D:\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserPhieuNhap.resources
+D:\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserSanPham.resources
+D:\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csproj.GenerateResource.cache
+D:\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csproj.CopyComplete
+D:\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.exe
+D:\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.pdb
+D:\Download\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csprojAssemblyReference.cache
+D:\Download\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.ctPhieuNhap.resources
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csprojAssemblyReference.cache
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.chitietsanpham.resources
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.cthoadon.resources
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.Form1.resources
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.FormLogin.resources
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.Properties.Resources.resources
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserDanhMucSP.resources
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserHoaDon.resources
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserHome.resources
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserKhachHang.resources
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserNhaCungCap.resources
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserNhanVien.resources
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserPhieuNhap.resources
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserSanPham.resources
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csproj.GenerateResource.cache
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.exe
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.pdb
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Shop_Project_WinForm.exe.config
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Shop_Project_WinForm.exe
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Shop_Project_WinForm.pdb
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csproj.CopyComplete
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.chitietphieunhapcs.resources
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.Form2.resources
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\RdlCompile.cache
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\RdlCompile.compiled
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\EnvDTE.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\stdole.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.MSXML.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Dapper.dll
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Dapper.xml
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.Form3.resources
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.slton3thang.resources
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.bieudo.resources
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.quanlytonkho1nam.resources
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.dangnhap.resources
+D:\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.HangTon.resources
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Shop_Project_WinForm.exe.config
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Shop_Project_WinForm.exe
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Shop_Project_WinForm.pdb
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Dapper.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\EnvDTE.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\stdole.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.MSXML.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Dapper.xml
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.bieudo.resources
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.chitietphieunhapcs.resources
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.chitietsanpham.resources
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.cthoadon.resources
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.dangnhap.resources
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.Form1.resources
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.Form2.resources
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.Form3.resources
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.FormLogin.resources
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.HangTon.resources
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.Properties.Resources.resources
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.quanlytonkho1nam.resources
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.slton3thang.resources
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserDanhMucSP.resources
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserHoaDon.resources
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserHome.resources
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserKhachHang.resources
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserNhaCungCap.resources
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserNhanVien.resources
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserPhieuNhap.resources
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserSanPham.resources
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\RdlCompile.cache
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\RdlCompile.compiled
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csproj.CopyComplete
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.exe
+C:\Users\admin\Downloads\Shop_Project_WinForm (1)\Shop_Project_WinForm (1)\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.pdb
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Shop_Project_WinForm.exe.config
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Shop_Project_WinForm.exe
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Shop_Project_WinForm.pdb
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Dapper.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\EnvDTE.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\stdole.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Microsoft.MSXML.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\Dapper.xml
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csprojAssemblyReference.cache
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.bieudo.resources
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.chitietphieunhapcs.resources
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.chitietsanpham.resources
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.cthoadon.resources
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.dangnhap.resources
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.Form1.resources
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.Form2.resources
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.Form3.resources
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.FormLogin.resources
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.HangTon.resources
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.Properties.Resources.resources
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.quanlytonkho1nam.resources
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.slton3thang.resources
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserDanhMucSP.resources
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserHoaDon.resources
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserHome.resources
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserKhachHang.resources
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserNhaCungCap.resources
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserNhanVien.resources
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserPhieuNhap.resources
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.UserSanPham.resources
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csproj.GenerateResource.cache
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\RdlCompile.cache
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\RdlCompile.compiled
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.csproj.CopyComplete
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.exe
+D:\dowload\QuanLyShopQuanAo\FileC#_quanlishopquanao\Shop_Project_WinForm\Shop_Project_WinForm\obj\Debug\Shop_Project_WinForm.pdb
